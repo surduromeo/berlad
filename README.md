@@ -1,2 +1,2 @@
 ## Demo
-- https://surduromeo.github.io/map./
+- https://surduromeo.github.io/berlad/
