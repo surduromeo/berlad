@@ -48,7 +48,7 @@ var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.
 controlLayers.addBaseLayer(OpenStreetMap, 'Barlad.');
 
 var bd1960 = new L.tileLayer.wms(" http://mapwarper.net/maps/tile/37261/{z}/{x}/{y}.png", {
-  layers: 'Barlad Online',
+  layers: 'Facebook',
   version: '1.1.0',
   transparent: true,
   attribution:'Map 1960-1967</a>'
