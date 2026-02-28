@@ -63,7 +63,7 @@ var bd1900 = new L.tileLayer.wms("http://mapwarper.net/maps/tile/37305/{z}/{x}/{
   layers: 'Facebook',
   version: '1.1.0',
   transparent: true,
-  attribution:'/<a href="https://www.facebook.com/Barladulodinioara/">Facebook</a>'
+  attribution:'/ <a href="https://www.facebook.com/Barladulodinioara/">Facebook</a>'
 }).addTo(map);
 controlLayers.addBaseLayer(bd1900, 'Barlad 1900');
 
