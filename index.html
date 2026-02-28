@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Barladul Odinioară</title>
+
+    <link rel="stylesheet" type="text/css" href="src/bootstrap-4.2.1-dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="info1/leaflet-bootstrapmodal.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="src/fontawesome-free-5.7.1-web/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+
+
+
+
+	 
+</head>
+
+<body>
+
+    <div id="map"></div>
+
+    <div id="modal_about" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+        aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title"> Bârladul odinioară</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+
+                  <p align="justify">Harta interactivă „Bârladul odinioară.”  ne oferă  o imagine de ansamblu despre evoluția urbanistică și  arhitectura orașului, începând cu  secolul al  IX-lea  până în a doua jumătate a secolului al  XX-lea. 
+				  </p>
+                  <p align="justify">Pentru a ne forma o imagine cât mai corectă, s-au folosit următoarele harți: "Bârlad 1900" - harta concepută de  inginerul George T. Negrutzi în perioada 1900-1906, harta "Bârlad 1960" realizată de D.R.I.F.O.T. Iași împreună cu Centrul de fotogrametrie, în perioada 1960-1967  și harta actuală "Bârlad". Fotografiile au fost grupate astfel: "Foto/1900/" - fotografii (carți poștale) circulate până în anul 1945, și  "Foto/1960/" - fotografii făcute în perioada comunistă până în anii '80. O serie de clădiri nu le veți regăsi pe hartă (nu au fost construite sau au fost demolate) dar  au fost marcate locațiile respective.  Puteți afla mai multe informații accesând link-ul fotografiei.   
+                  </p>
+                  <p align="justify">Colecții foto: Laurențiu Râmboi, Fondul Muzeului “Vasile Pârvan”, Bârlad - Nicolae Mitulescu,  Gabriel Mărgineanu, Florian Pricop, Marcel Proca, Danuț Pecheanu, Constantin Suciu.
+                    </p> 
+                  <p align="justify">Note bibliografice: (1) Marcel Proca, Viaţa cotidiană în Bârladul secolului al XIX-lea şi prima jumătate a secolului al XX-lea,(2) Romulus Boteanu (coord.), Bârladul odinioară și astăzi, Vol. I-III.</p>
+                  <p>Web developer: Romeo Surdu, romeosurdu@yahoo.co.uk</p>
+                  <p>Browser recomandat: Google Chrome </p>
+				  <p align="center"style="color:red;"> În construcție</p>
+			<p align="center"><a href="https://www.facebook.com/Barladulodinioara/">Facebook, sugestii și comentarii</a> </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="modal-detalii-poza" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"> - </h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <script type="text/javascript" src="src/jquery/jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="src/bootstrap-4.2.1-dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="info1/leaflet-bootstrapmodal.js"></script>
+
+
+    <script type="text/javascript" src="src/informatiiPoza.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet-src.js"></script> -->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
+
+</body>
+
+</html>

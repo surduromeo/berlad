@@ -1,0 +1,27 @@
+body { margin:0; padding:0; }
+#map { position: absolute; top:0; bottom:0; right:0; left:0; }
+
+.leaflet-popup-content {
+    	width:auto !important;
+	}
+
+
+
+
+
+
+.leaflet-control-bootstrapmodal {
+}
+
+.leaflet-control-bootstrapmodal i {
+    font-size: 16px;
+    color: #444;
+
+    line-height: 26px;
+}
+
+.leaflet-touch .leaflet-control-bootstrapmodal i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
