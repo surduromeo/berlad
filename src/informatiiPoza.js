@@ -86,7 +86,7 @@ var informatiiPoza = {
 	},
 
 	'sto': {
-        titlu: 'Complexul Şcolar Bârlad',
+        titlu: 'Statuia doctorului Constantin Codrescu',
         descriere: '<p align="justify">La 12 ani după moartea sa, în 1903 a fost ridicată de Fundația Spitalului "Bârlad și Elena Beldiman" o statuie a doctorului Codrescu. Statuia, executată în marmură albă de sculptorul Frederic Storck se află în prezent în incinta Spitalului Municipal de Adulți Bârlad. Statuia îl reprezintă pe doctor în picioare cu o carte în mâna stângă, actul de fondare a clădirii spitalului în mâna dreaptă și câteva din publicațiile sale pe postament. Soclulea din marmură, este decorat în relief cu panouri realizate din cununi de lauri.”.</p>\'
 	},
 	
