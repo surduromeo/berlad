@@ -186,13 +186,13 @@ new L.Control.BootstrapModal({
 
 
 
-function laOnClickPePoza(poza) {
-  if (!informatiiPoza[poza]) {
+function laOnClickpepoza(poza) {
+  if (!informatiipoza[poza]) {
     alert('nu am text pt. ' + poza);
   }
 
-  $('#modal-detalii-poza .modal-title').html(informatiiPoza[poza].titlu);
-  $('#modal-detalii-poza .modal-body').html(informatiiPoza[poza].descriere);
+  $('#modal-detalii-poza .modal-title').html(informatiipoza[poza].titlu);
+  $('#modal-detalii-poza .modal-body').html(informatiipoza[poza].descriere);
 
   $('#modal-detalii-poza').modal('show'); 
 }
