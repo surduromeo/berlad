@@ -1,9 +1,8 @@
 var informatiiPoza = {
      'stok': {
-        titlu: 'Strada Principală',
-        descriere: '<p align="justify">Cea mai importantă și cea mai lungă strada a orașului, pe care îl străbătea de la Nord la Sud pe o distanță de circa 4 Km, era Strada Mare sau Strada Principală. După ce țara a devenit regat, în anul 1881, strada s-a numit în mod oficial Strada Regală. Strada se întindea de la cazărmi până la Gradina Publică. Era pavată cu bolovani de râu, prin centru cu piatră cubică de granit, iar spre Gradina Publică era asfaltată. Pe toată lungimea ei, era mărginită de trotuare, iar canalizare nu exista. Apa menajeră era aruncată în stradă, excepție făcea o mică porțiune în centru. După instalarea regimului comunist, denumirea străzii a fost schimbată în Strada Republicii.(2)</p>'
-       
-    },
+        titlu: 'Statuia doctorului Constantin Codrescu',
+        descriere:'<p align="justify">Statuia doctorului Constantin Codrescu a fost ridicată în anul 1903 de Fundația Spitalului „Elena Beldiman" și este amplasată în incinta Spitalului Municipal de Adulți Bârlad. Cioplită în marmură albă, statuia îl reprezintă pe doctor în picioare cu o carte în mâna stângă, actul de fondare a clădirii spitalului în mâna dreaptă și câteva din publicațiile sale pe postament. Soclul, de asemenea din marmură, este decorat în relief cu panouri realizate din cununi de lauri.</p>\'
+	},
 	
     'dom': {
         titlu: 'Parcul - Piața Domnească',
