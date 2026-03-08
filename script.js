@@ -186,7 +186,7 @@ new L.Control.BootstrapModal({
 
 
 
-function laOnClickpepoza(poza) {
+function laOnClickPePoza(poza) {
   if (!informatiipoza[poza]) {
     alert('nu am text pt. ' + poza);
   }
