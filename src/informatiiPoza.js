@@ -24,9 +24,9 @@ var informatiiPoza = {
     },
     'eur': {
         titlu: 'Hotel Europa',
-        descriere: '<p align="justify">Hotelul Europa, având proprietar pe un anume Brandes, era situat pe strada Iacomi la nr. 39. Datând din a doua jumătate a secolului al XIX-lea, primul de care avem cunoştinţă în urbea noastră, a fost construit pe locul mai vechiului Han “Talpău” unde funcţiona renumitul restaurant – la acea vreme - “Venţel”. În 1919 aflăm, spre exemplu, din reclame că este “de prim rang” !!!, “complet renovat”, dispune de “confort modern”, lumină electrică şi totul la “preţuri moderate”. În perioada comunistă a fost naţionalizat (1952) şi odată cu înfiinţarea Teatrului “Victor Ion Popa” (1955), clădirea a primit o nouă destinaţie fiind repartizat ca spaţiu locativ pentru actori. Clădirea, fiind avariată la cutremurul din 4 martie 1977, a fost demolată potrivit politicii vremii în anul 1979.(1)</p> '
+        descriere: '<p align="justify">Hotelul Europa, având proprietar pe un anume Brandes, era situat pe strada Iacomi la nr. 39. Datând din a doua jumătate a secolului al XIX-lea, primul de care avem cunoştinţă în urbea noastră, a fost construit pe locul mai vechiului Han “Talpău” unde funcţiona renumitul restaurant – la acea vreme - “Venţel”. În 1919 aflăm, spre exemplu, din reclame că este “de prim rang” !!!, “complet renovat”, dispune de “confort modern”, lumină electrică şi totul la “preţuri moderate”. În perioada comunistă a fost naţionalizat (1952) şi odată cu înfiinţarea Teatrului “Victor Ion Popa” (1955), clădirea a primit o nouă destinaţie fiind repartizat ca spaţiu locativ pentru actori. Clădirea, fiind avariată la cutremurul din 4 martie 1977, a fost demolată potrivit politicii vremii în anul 1979 ..(1)<a href="https://en.wikipedia.org/wiki/Krak%C3%B3w" target="_blank">→ show more</a></p> '
       
-    },
+     },
     'spi': {
         titlu: 'Spitalul Elena Beldiman',
         descriere: '<p align="justify">Planul clădirii a fost făcut de arhitectul A. Orăscu, inaugurarea având loc la 26 aprilie 1881. Construcţia reprezenta pentru data respectivă un progres, spitalul dispunând de un sistem de calorifere în pereţi ce îmbina încălzirea cu ventilaţia naturală. Un rol important la ridicarea noului local pentru spital l-a jucat dr. Constantin Codrescu (24 ianuarie 1840, Bârlad – 30 ianuarie 1891, Bucureşti) director al acestuia între 1866 şi 1891. În faţa spitalului a fost amplasată în 1903 o statuie reprezentându-l pe dr. Constantin Codrescu, opera lui Fritz Stork.(1) </p>'
@@ -79,13 +79,13 @@ var informatiiPoza = {
 		<p align="justify">În 1939 şi 1940 localul şcolii a fost avariat de puternice cutremure de pământ, fiind ulterior incendiat de trupele germane aflate în retragere la 23 august 1944.(1)\</p>'
 	},
 	
+		
+	
 	'csb': {
         titlu: 'Complexul Şcolar Bârlad',
         descriere: '<p align="justify">La începutul anului 1958, printr-o Hotărâre a Consiliului de Miniştri, ansamblul de clădiri construit în oraşul Bârlad cu destinaţia Liceu militar sau Academie militară a fost transferat de la Ministerul Forţelor Armate la Ministerul Învăţământului, care a decis înfiinţarea unui Complex Şcolar, în care să fie instruiţi aproape toţi elevii din oraş. Lucrările au fost finalizate în noiembrie 1958 şi tot atunci Inspectoratul Şcolar al Regiunii Iaşi a hotărât mutarea în noul local a tuturor elevilor din ciclul gimnazial şi liceal. Astfel, elevii din trei licee bârlădene (Liceul „Gh. Roşca-Codreanu”, Liceul de fete, Liceul Pedagogic) şi şase şcoli generale au devenit elevii noii instituţii de învăţământ care, printr-un ordin al Ministerului, a fost numit „Complexul Şcolar Bârlad”.</p>\
 		<p align="justify">www.liceuleminescubarlad.ro\</p>'
 	},
-
-	
 	
 	'poza1': {
         titlu: 'a',
