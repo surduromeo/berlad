@@ -1,9 +1,10 @@
 var informatiiPoza = {
-'stok': {
-        titlu: 'Statuia doctorului Constantin Codrescu',
-        descriere:'<p align="justify">Statuia doctorului Constantin Codrescu a fost ridicată în anul 1903 de Fundația Spitalului „Elena Beldiman" și este amplasată în incinta Spitalului Municipal de Adulți Bârlad. Cioplită în marmură albă, statuia îl reprezintă pe doctor în picioare cu o carte în mâna stângă, actul de fondare a clădirii spitalului în mâna dreaptă și câteva din publicațiile sale pe postament. Soclul, de asemenea din marmură, este decorat în relief cu panouri realizate din cununi de lauri.</p>\'
-	},
-	
+      'stok': {
+        titlu: '123',
+        descriere: '<p align="justify">Cea mai importantă și cea mai lungă strada a orașului, pe care îl străbătea de la Nord la Sud pe o distanță de circa 4 Km, era Strada Mare sau Strada Principală. După ce țara a devenit regat, în anul 1881, strada s-a numit în mod oficial Strada Regală. Strada se întindea de la cazărmi până la Gradina Publică. Era pavată cu bolovani de râu, prin centru cu piatră cubică de granit, iar spre Gradina Publică era asfaltată. Pe toată lungimea ei, era mărginită de trotuare, iar canalizare nu exista. Apa menajeră era aruncată în stradă, excepție făcea o mică porțiune în centru. După instalarea regimului comunist, denumirea străzii a fost schimbată în Strada Republicii.(2)</p>'
+       
+    },
+      
     'dom': {
         titlu: 'Parcul - Piața Domnească',
         descriere: '<p align="justify">Situat pe teritoriul unei mai vechi pieţe, menţionat în planul din 1851 cu denumirea de piaţa carelor, apariţia acestui nou loc de agrement s-a aflat în seria de activităţi edilitare ale fostului primar Andrei V. Ionescu. În memoriile sale, ne oferă informaţii despre cum a amenajat zona în 1875: ,În Piaţa Domnească am construit un bazin pentru apă şi rezervor pentru caz de incendii, ca să fie apă abundentă şi să se poată lua cu uşurinţă. Am oprit a se mai vinde vinurile acolo şi am strămutat Otcupul în Piaţa Ocolului de vite, iar în locul rămas fără nici un serviciu am făcut Scuar, prevăzându-l cu copaci, gazon şi flori, de către grădinarul comunei, adus de mine din Paris” </p>\
