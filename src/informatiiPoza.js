@@ -29,7 +29,7 @@ var informatiiPoza = {
      },
     'spi': {
         titlu: 'Spitalul Elena Beldiman',
-        descriere: '<p align="justify">Planul clădirii a fost făcut de arhitectul A. Orăscu, inaugurarea având loc la 26 aprilie 1881. Construcţia reprezenta pentru data respectivă un progres, spitalul dispunând de un sistem de calorifere în pereţi ce îmbina încălzirea cu ventilaţia naturală. Un rol important la ridicarea noului local pentru spital l-a jucat dr. Constantin Codrescu (24 ianuarie 1840, Bârlad – 30 ianuarie 1891, Bucureşti) director al acestuia între 1866 şi 1891. În faţa spitalului a fost amplasată în 1903 o statuie reprezentându-l pe dr. Constantin Codrescu, opera lui Fritz Stork.(1) </p>'
+        descriere: '<p align="justify">Planul clădirii a fost făcut de arhitectul A. Orăscu, inaugurarea având loc la 26 aprilie 1881. Construcţia reprezenta pentru data respectivă un progres, spitalul dispunând de un sistem de calorifere în pereţi ce îmbina încălzirea cu ventilaţia naturală. Un rol important la ridicarea noului local pentru spital l-a jucat dr. Constantin Codrescu (24 ianuarie 1840, Bârlad – 30 ianuarie 1891, Bucureşti) director al acestuia între 1866 şi 1891. În faţa spitalului a fost amplasată în 1903 o statuie reprezentându-l pe dr. Constantin Codrescu, opera lui Frederic Stork.(1) </p>'
       
     },
     'spf': {
