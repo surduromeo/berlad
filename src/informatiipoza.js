@@ -1,4 +1,9 @@
 var informatiiPoza = {
+    'stok': {
+        titlu: 'Statuia doctorului Constantin Codrescu',
+        descriere:'<p align="justify">Statuia doctorului Constantin Codrescu a fost ridicată în anul 1903 de Fundația Spitalului „Elena Beldiman" și este amplasată în incinta Spitalului Municipal de Adulți Bârlad. Cioplită în marmură albă, statuia îl reprezintă pe doctor în picioare cu o carte în mâna stângă, actul de fondare a clădirii spitalului în mâna dreaptă și câteva din publicațiile sale pe postament. Soclul, de asemenea din marmură, este decorat în relief cu panouri realizate din cununi de lauri.</p>\'
+	},
+	
     'dom': {
         titlu: 'Parcul - Piața Domnească',
         descriere: '<p align="justify">Situat pe teritoriul unei mai vechi pieţe, menţionat în planul din 1851 cu denumirea de piaţa carelor, apariţia acestui nou loc de agrement s-a aflat în seria de activităţi edilitare ale fostului primar Andrei V. Ionescu. În memoriile sale, ne oferă informaţii despre cum a amenajat zona în 1875: ,În Piaţa Domnească am construit un bazin pentru apă şi rezervor pentru caz de incendii, ca să fie apă abundentă şi să se poată lua cu uşurinţă. Am oprit a se mai vinde vinurile acolo şi am strămutat Otcupul în Piaţa Ocolului de vite, iar în locul rămas fără nici un serviciu am făcut Scuar, prevăzându-l cu copaci, gazon şi flori, de către grădinarul comunei, adus de mine din Paris” </p>\
