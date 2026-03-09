@@ -1,7 +1,7 @@
 var informatiiPoza = {
     'ton': {
         titlu: 'Nicolae Tonitza',
-        descriere: '<p align="justify">În cadrul manifestărilor prilejuite de împlinirea a 80 de ani de existență a Muzeului Vasile Pârvan din bârlad, în ziua de 15 octombrie 1994, a fost dezvelit bustul pictorului Nicolae Tonitza, artist român de excepție, fiu al orașului Bîrlad. Lucrarea, realizată din bronz, este creația sculptorului ieșeanPetre Ignat, și a fost achiziționată de către dr. Constantin Teodorescu care, cu ocazia susamintitei aniversări, a donat-o municipiului Bîrlad. Amplasat în parcul Teatrului V.I.Popa, in vecinătatea statuii acestui dramaturg, bustul lui Nicolae Tonitzacompletează galeriamarilor personalități Bârlădene(3) .</p>'  
+        descriere: '<p align="justify">În cadrul manifestărilor prilejuite de împlinirea a 80 de ani de existență a Muzeului Vasile Pârvan din Bârlad, în ziua de 15 octombrie 1994, a fost dezvelit bustul pictorului Nicolae Tonitza, artist român de excepție, fiu al orașului Bârlad. Lucrarea, realizată din bronz, este creația sculptorului ieșean Petre Ignat, și a fost achiziționată de către dr. Constantin Teodorescu care, cu ocazia sus amintitei aniversări, a donat-o municipiului Bârlad. Amplasat în parcul Teatrului V.I.Popa, în vecinătatea statuii acestui dramaturg, bustul lui Nicolae Tonitza completează galeria marilor personalități Bârlădene.(3)</p>'  
     },
 	'stok': {
         titlu: 'Statuia doctorului Constantin Codrescu',
