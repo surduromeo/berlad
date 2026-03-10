@@ -1,5 +1,15 @@
 var informatiiPoza = {
-    'ton': {
+    
+	
+	 'gugu': {
+        titlu: 'Marcel Guguianu',
+        descriere: '<p align="justify">La un an de la trecerea în neființă a maestrului Marcel Guguianu, pe data de 23 iunie 2013, Fundația „Dr. Clara Constantinescu” a adus un pios omagiu sculptorului prin dezvelirea unui bust din bronz în orașul său natal, Bârlad. Lucrarea poartă semnătura sculptorului Ion Iancuț.
+   Bustul a fost amplasat în parcul„ V.I Popa” din Bârlad, în fața  Pavilionului Expozițional „Marcel Guguianu”, pe un piedestal paralelipipedic din beton placat cu marmoră,  purtând inscripția identificatoare dispusă pe patru rânduri: MARCEL / GUGUIANU / SCULPTOR / 1922-2012.
+Evenimentul a debutat cu o slujbă de pomenire oficiată la mormântul maestrului din Cimitirul „Eternitatea”. Ulterior, începând cu ora 12:00, bustul de bronz a fost dezvelit în cadrul unei ceremonii oficiale, la care au participat numeroși invitați de marcă
+</p>'  
+    },
+	
+	'ton': {
         titlu: 'Nicolae Tonitza',
         descriere: '<p align="justify">În cadrul manifestărilor prilejuite de împlinirea a 80 de ani de existență a Muzeului Vasile Pârvan din Bârlad, în ziua de 15 octombrie 1994, a fost dezvelit bustul pictorului Nicolae Tonitza, artist român de excepție, fiu al orașului Bârlad. Lucrarea, realizată din bronz, este creația sculptorului ieșean Petre Ignat, și a fost achiziționată de către dr. Constantin Teodorescu care, cu ocazia sus amintitei aniversări, a donat-o municipiului Bârlad. Amplasat în parcul Teatrului V.I.Popa, în vecinătatea statuii acestui dramaturg, bustul lui Nicolae Tonitza completează galeria marilor personalități Bârlădene.(3)</p>'  
     },
