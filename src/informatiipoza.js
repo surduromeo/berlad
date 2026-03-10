@@ -1,4 +1,10 @@
 var informatiiPoza = {
+
+
+	'pirv': {
+        titlu: 'Vasile Pârvan',
+        descriere: '<p align="justify">În anul 1989, cu ocazia aniversării a 75 de ani de existență a Muzeului „Vasile Pârvan" din Bârlad, s-a dezvelit în fața prestigioasei instituții de cultură, bustul „poetului arheologiei româneşti" - Vasile Pârvan. Turnat în bronz, bustul a fost montat pe un soclu de beton, fiind opera marelui sculptor de origine bârlădeană loan Dimitriu-Bârlad, după al cărui mulaj, bine conservat, s-a turnat la Intreprinderea de Rulmenți din localitate, bustul care a fost instalat pe soclu. În spatele bustului, care împreună cu soclul formează statuia propriu-zisă, a fost realizată o arcadă, ca element arhitectonic de echilibru între dimensiunile statui şi una din deschiderile clădirii în fața căreia este așezată, element care, in același timp, poate simboliza existența în timp a națiunii române. Pe latura din față a soclului s-a aplicat o placă pe care au fost înscrise numele istoricului: „Vasile Pârvan" și anii de viață: „1882-1927". Motivația dezvelirii, la Bârlad, a bustului marelui istoric constă în faptul că acesta a urmat și absolvit aici cursurile celebrului Liceu „Codreanu", importantă instituție de învățământ în care s-au format multe personalități ale culturii și științei românești.(3)</p>'  
+    },
    'emil': {
         titlu: 'Emil Gîrleanu',
         descriere: '<p align="justify">Amplasată în centrul scuarului din fața Școlii nr.1 (fostul Liceu de fete „Iorgu Radu"), cu ocazia acordării acestei instituții de învățământ numele scriitorului care o perioadă de timp s-a aflat și a creat la Bârlad, bustul este opera cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment, acesta a fost instalat pe un soclu în două trepte ce susține un piedestal format din două trunchiuri inegale de piramidă cuplate în secțiunea cea mai mică. Între piedestal și bustul scriitorului a fost așezată, orizontal, o placă de marmoră care întregește și dă o notă de distincție întregului ansamblu statuar.(3) </p>'  
