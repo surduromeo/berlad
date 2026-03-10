@@ -1,7 +1,9 @@
 var informatiiPoza = {
     
-	
-	 
+	'gugu': {
+        titlu: 'Marcel Guguianu',
+        descriere: '<p align="justify">La un an de la trecerea în neființă a maestrului Marcel Guguianu, pe data de 23 iunie 2013, Fundația „Dr. Clara Constantinescu” a adus un pios omagiu sculptorului prin dezvelirea unui bust din bronz în orașul său natal, Bârlad. Lucrarea poartă semnătura sculptorului Ion Iancuț. Bustul a fost amplasat în parcul„ V.I Popa” din Bârlad, în fața  Pavilionului Expozițional „Marcel Guguianu”, pe un piedestal paralelipipedic din beton placat cu marmoră,  purtând inscripția identificatoare dispusă pe patru rânduri: MARCEL / GUGUIANU / SCULPTOR / 1922-2012. Evenimentul a debutat cu o slujbă de pomenire oficiată la mormântul maestrului din Cimitirul „Eternitatea”. Ulterior, începând cu ora 12:00, bustul de bronz a fost dezvelit în cadrul unei ceremonii oficiale, la care au participat numeroși invitați de marcă.</p>'  
+    },
 	
 	'ton': {
         titlu: 'Nicolae Tonitza',
