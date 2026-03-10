@@ -1,6 +1,6 @@
 var informatiiPoza = {
     'emin': {
-        titlu: 'Marcel Guguianu',
+        titlu: 'Mihai Eminescu',
         descriere: '<p align="justify">Dezvelită în ziua de 22 mai 1994, statuia a fost amplasată în parcul Teatrului „Victor Ion Popa", fiind opera marelui sculptor Ion Irimescu, creată în anul 1922. Turnat în bronz, bustul marelui poet național a fost așezat pe un piedestal paralelipipedic, în plan dreptunghiular, care împreună cu soclul propriu-zis au fost placate cu marmură albă. Pe latura din față a piedestalului a fost aplicată o placă din bronz pe care au fost înscrise, în partea centrală, numele poetului și anii de viață: „Mihai Eminescu, 1859-1889", în colțul din stânga jos, numele sculptorului: „Ion Irimescu", iar în colțul din dreapta, jos, numele donatorului: „Dr. Const. Teodorescu".(3)</p>'  
     },
 	'gugu': {
