@@ -1,5 +1,8 @@
 var informatiiPoza = {
-
+     'sma': {
+        titlu: 'Smaranda Brăescu',
+        descriere: '<p align="justify">Pe 19 mai 2018, în cadrul Zilelor Culturale ale Bârladului, orașul a adus un omagiu memorabil „Reginei Înălțimilor” prin dezvelirea bustului Smarandei Brăescu. Evenimentul a marcat recunoașterea simbolică a legăturii profunde dintre marea campioană și urbea în care s-a format. Smaranda Brăescu, prima femeie parașutist din România și campioană mondială absolută în 1932 (după legendarul salt de la Sacramento, California), a urmat cursurile Școlii Secundare de Fete din Bârlad. Tot aici, pe cerul tutovean, a trăit primul contact cu aviația, moment ce avea să-i definească destinul extraordinar. Monumentul, amplasat strategic în Parcul Teatrului „Victor Ion Popa”, este opera sculptorului Dorinel Filiche. Realizarea acestuia a fost posibilă datorită generozității Comandorului (rt) dr. ing. Ștefan Gheorghe, fiu al Bârladului, care a donat bustul comunității din dorința de a păstra vie memoria celei care a scris istorie în aeronautica mondială. Ceremonia a reunit oficialități, cadre militare și cetățeni, transformând o filă de istorie într-un reper permanent de mândrie locală.</p>'  
+    },
 
 	'pirv': {
         titlu: 'Vasile Pârvan',
