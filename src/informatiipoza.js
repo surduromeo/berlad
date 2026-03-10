@@ -1,5 +1,5 @@
 var informatiiPoza = {
-   'ton': {
+   'emil': {
         titlu: 'Emil Gîrleanu',
         descriere: '<p align="justify">Amplasată în centrul scuarului din fața Școlii nr.1 (fostul Liceu de fete „Iorgu Radu"), cu ocazia acordării acestei instituții de învățământ numele scriitorului care o perioadă de timp s-a aflat și a creat la Bârlad, bustul este opera cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment, acesta a fost instalat pe un soclu în două trepte ce susține un piedestal format din două trunchiuri inegale de piramidă cuplate în secțiunea cea mai mică. Între piedestal și bustul scriitorului a fost așezată, orizontal, o placă de marmoră care întregește și dă o notă de distincție întregului ansamblu statuar.(3) </p>'  
     },
