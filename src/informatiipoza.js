@@ -1,5 +1,8 @@
 var informatiiPoza = {
-   
+   'ton': {
+        titlu: 'Emil Gîrleanu',
+        descriere: '<p align="justify">Amplasată în centrul scuarului din fața Școlii nr.1 (fostul Liceu de fete „Iorgu Radu"), cu ocazia acordării acestei instituții de învățământ numele scriitorului care o perioadă de timp s-a aflat și a creat la Bârlad, bustul este opera cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment, acesta a fost instalat pe un soclu în două trepte ce susține un piedestal format din două trunchiuri inegale de piramidă cuplate în secțiunea cea mai mică. Între piedestal și bustul scriitorului a fost așezată, orizontal, o placă de marmoră care întregește și dă o notă de distincție întregului ansamblu statuar.(3) </p>'  
+    },
 	'emin': {
         titlu: 'Mihai Eminescu',
         descriere: '<p align="justify">Dezvelită în ziua de 22 mai 1994, statuia a fost amplasată în parcul Teatrului „Victor Ion Popa", fiind opera marelui sculptor Ion Irimescu, creată în anul 1922. Turnat în bronz, bustul marelui poet național a fost așezat pe un piedestal paralelipipedic, în plan dreptunghiular, care împreună cu soclul propriu-zis au fost placate cu marmură albă. Pe latura din față a piedestalului a fost aplicată o placă din bronz pe care au fost înscrise, în partea centrală, numele poetului și anii de viață: „Mihai Eminescu, 1859-1889", în colțul din stânga jos, numele sculptorului: „Ion Irimescu", iar în colțul din dreapta, jos, numele donatorului: „Dr. Const. Teodorescu".(3)</p>'  
