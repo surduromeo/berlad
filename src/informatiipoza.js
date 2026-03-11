@@ -1,4 +1,8 @@
 var informatiiPoza = {
+	'pamf': {
+        titlu: 'Tudor Pamfile',
+        descriere: '<p align="justify">Opera cunoscutului artist plastic vasluian Gheorghe Alupoaie, statuia a fost dezvelită în luna mai a anului 2000, cu ocazia împlinirii a 75 de ani de la înființarea, Școlii nr. 4, căruia i s-a atribuit numele marelui folclorist. Confecționat din ciment și praf de piatră bustul este așezat pe un piedestal cu soclu construite din zidărie tencuită. Pe piedestal a fost montată o placă metalică pe care a fost înscris textul: TUDOR PAMFILE /1883-1921.(3)</p>'  
+    },
 
 	'rosc': {
         titlu: 'Gheorghe Roșca Codreanu',
