@@ -1,4 +1,16 @@
 var informatiiPoza = {
+	'musa': {
+        titlu: 'Caporalul Muşat',
+        descriere: '<p align="justify">Operă a sculptorului bârlădean Ioan Dimitriu-Bârlad, statuia cunoscută sub numele de „Ultima grenadă a caporalului Muşat", a fost dezvelită în anul 1927, în fața clădirii Regimentului 12 Dorobanți „Dimitrie Cantemir", azi UM 01458. Așezată pe un soclu paralelipipedic în plan dreptunghiular și cu o înălțime de 3 m, construit din beton armat, statuia a fost turnată în bronz, având o înălțime de 2,10 m, reprezentându-1 pe caporalul Muşat într-o ipostază intrată în legendă-aruncând grenada cu mâna ce-i rămăsese teafără. Pe placa de marmură albă, aplicată pe latura din față a soclului, a fost înscris următorul text: „CAPORALUL CONSTANTIN MUŞAT, 1890-1917, CĂZUT EROIC LA DATORIE, APĂRÂND CU PREȚUL VIEȚII SALE PĂMÂNTUL SCUMP AL PATRIEI, ÎN ZIUA DE 14 AUGUST 1917, PE FRONTUL DE PE VALEA OITUZULUI. PRIN RĂPĂITUL ASURZITOR AL ARMELOR SE AUZEA MEREU, CA O ÎMBĂRBĂTARE, GLASUL CAPORALULUI MUȘAT: GRENADE BĂIEȚI, DAȚI GRENADE!"(3)</p>'  
+    },
+	'mano': {
+        titlu: 'Manolache Costache Epureanu',
+        descriere: '<p align="justify">Bustul lui Manolache Costache Epureanu a fost dezvelit în ziua de 22 august 2009, chiar în fața sediului Poliției Municipiului Bârlad. Monumentul a fost realizat la inițiativa și prin eforturile angajaților Poliției Bârlad, cu aprobarea Consiliului Local al municipiului. Lucrarea a fost realizată de profesorul Dorinel Filiche din ciment alb si montată pe un postament cu soclu, din zidărie tencuită, pe care a fost montată o placă de marmură cu următoarea inscripție:  MANOLACHE/COATACHE/ EPUREANU/1820-1880.</p>'  
+    },
+	'tuto': {
+        titlu: 'George Tutoveanu',
+        descriere: '<p align="justify">În prezenta oficialităților bârlădene, a profesorilor scolii, a numeroși părinți, elevi și cadre didactice de la școlile din localitate, în ziua de 23 aprilie 2014, a fost dezvelit bustul poetului George Tutoveanu. Școala poartă numele poetului bârlădean din 1995, la inițiativa directorului de atunci, Lucica Munteanu. Dezvelirea bustului a fost precedată de o slujbă religioasă susținută de preotul Parohiei „Sf. Mina”, de care aparține școala. Bustul a fost instalat în fața școlii și a fost realizat de profesorul Dorinel Filiche, profesor la Liceul Pedagogic „Al. Vlahutã” din Bârlad, secțiunea Arte Plastice. Confecționat din ciment alb, bustul a fost așezat pe un piedestal paralelipipedic cu soclu, construit din zidărie și placat cu travertin. Pe latura din fața a postamentului s-a fixat o placă din metal pe care au fost înscrise: Poet/GEORGE TUTOVEANU/(1872-1957).</p>'  
+    },
 	'pamf': {
         titlu: 'Tudor Pamfile',
         descriere: '<p align="justify">Opera cunoscutului artist plastic vasluian Gheorghe Alupoaie, statuia a fost dezvelită în luna mai a anului 2000, cu ocazia împlinirii a 75 de ani de la înființarea, Școlii nr. 4, căruia i s-a atribuit numele marelui folclorist. Confecționat din ciment și praf de piatră bustul este așezat pe un piedestal cu soclu construite din zidărie tencuită. Pe piedestal a fost montată o placă metalică pe care a fost înscris textul: TUDOR PAMFILE /1883-1921.(3)</p>'  
