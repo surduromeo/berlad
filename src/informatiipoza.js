@@ -1,4 +1,8 @@
 var informatiiPoza = {
+	'aic': {
+        titlu: 'Al.I.Cuza',
+        descriere: '<p align="justify">Opera cunoscutului artist plastic vasluian Gheorghe Alupoaie, statuia a fost dezvelită la 24 martie 2001, în curtea Grupului Școlar Industrial, căruia i s-a atribuit numele marelui domnitor. Confecționat din ciment și praf de piatră bustul este așezat pe un piedestal cu soclu construite din zidărie tencuită. Pe piedestal a fost montată o placă din marmură pe care a fost înscris textul: ALEXANDRU IOAN CUZA /1820-1873.(3)</p>'  
+    },
 	'mce': {
         titlu: 'Manolache Costache Epureanu',
         descriere: '<p align="justify">Într-o atmosferă plină de solemnitate și respect față de istoria locală, pe data  de 14 octombrie 2013, în curtea Școlii Gimnaziale Nr. 9, unitate de învățământ ce poartă numele marelui om politic, la inițiativa Asociației „Manolache Costache Epureanu”, a avut loc ceremonia de dezvelire a bustului lui Manolache Costache Epureanu.  Bustul din ciment alb, purtând semnătura prof. Dorinel Filiche, este pus în valoare de un soclu modern în trepte, a cărui structură arhitecturală îi asigură o prezență solemnă și impunătoare în curtea instituției. Pe fațada piedestalului a fost fixată o placă de marmură ce poartă inscripția: MANOLACHE COSTACHE EPUREANU/1824-1880/Primul om politic care a propus spre dezbatere realizarea ÎNVĂȚĂMÂNTULUI GRATUIT în România/prim-ministru al Moldovei/ prim-ministru al Țării Românești/președinte al Adunării Constituante/prim-ministru al României. Dezvelirea monumentului a fost urmată de o slujbă de sfințire, la care au asistat oficialități, reprezentanți ai Lojei Masonice, cadre didactice, elevi și diverse personalități locale.</p>'  
