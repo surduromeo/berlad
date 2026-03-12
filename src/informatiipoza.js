@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'vipo': {
+        titlu: 'Victor Ion Popa',
+        descriere: '<p align="justify">Povestea teatrului bârlădean începe în anul 1955, când instituția și-a deschis porțile sub titulatura de „Teatru de Stat Bârlad”. Doar un an mai târziu, în 1956, prestigiul instituției este pecetluit prin atribuirea numelui lui Victor Ion Popa (1895-1946) — ilustru dramaturg, romancier și om de cultură polivalent, fiu al acestor meleaguri.</p>\
+		<p align="justify">Pentru a marca acest moment, Inspectoratul pentru Cultură al fostei regiunii Iași a donat instituției un bust din bronz al patronului său spiritual. Opera, realizată de artista Florica Hociung, a fost expusă inițial în foaierul teatrului, devenind un punct de reper pentru spectatori.</p>\
+		<p align="justify">În anul 1973 bustul este mutat în aer liber, în parcul teatrului. Inaugurarea festivă a avut loc pe 11 octombrie, odată cu deschiderea noii stagiuni. La acea vreme, statuia era așezată pe un soclu din cărămidă tencuită, pe care s-a fixat o placă din cupru cu numele dramaturgului și anii de viață: „VICTOR ION POPA/ 1895-1946".</p>\
+		<p align="justify">Pentru o mai bună punere în valoare, monumentul a fost relocat la intrarea în parc. În prezent, acesta beneficiază de un postament modern din zidărie, placat cu travertin, integrându-se armonios în zestrea culturală a orașului Bârlad. Pe latura din față a postamentului s-a montat o placa metalica cu următoarea inscripție: VICTOR ION POPA/29iulie 1895 - 30 martie 1946/Dramaturg, poet, critic de artă,/actor, regizor, pictor.</p>'
+    },
 	'aic': {
         titlu: 'Al.I.Cuza',
         descriere: '<p align="justify">Opera cunoscutului artist plastic vasluian Gheorghe Alupoaie, statuia a fost dezvelită la 24 martie 2001, în curtea Grupului Școlar Industrial, căruia i s-a atribuit numele marelui domnitor. Confecționat din ciment și praf de piatră bustul este așezat pe un piedestal cu soclu construite din zidărie tencuită. Pe piedestal a fost montată o placă din marmură pe care a fost înscris textul: ALEXANDRU IOAN CUZA /1820-1873.(3)</p>'  
@@ -156,7 +163,7 @@ var informatiiPoza = {
         descriere: '<p align="justify">La începutul anului 1958, printr-o Hotărâre a Consiliului de Miniştri, ansamblul de clădiri construit în oraşul Bârlad cu destinaţia Liceu militar sau Academie militară a fost transferat de la Ministerul Forţelor Armate la Ministerul Învăţământului, care a decis înfiinţarea unui Complex Şcolar, în care să fie instruiţi aproape toţi elevii din oraş. Lucrările au fost finalizate în noiembrie 1958 şi tot atunci Inspectoratul Şcolar al Regiunii Iaşi a hotărât mutarea în noul local a tuturor elevilor din ciclul gimnazial şi liceal. Astfel, elevii din trei licee bârlădene (Liceul „Gh. Roşca-Codreanu”, Liceul de fete, Liceul Pedagogic) şi şase şcoli generale au devenit elevii noii instituţii de învăţământ care, printr-un ordin al Ministerului, a fost numit „Complexul Şcolar Bârlad”.</p>\
 		<p align="justify">www.liceuleminescubarlad.ro\</p>'
 	},
-	
+	/////////////
 	'poza1': {
         titlu: 'a',
         descriere: '<p align="justify">bla bla</p>\
