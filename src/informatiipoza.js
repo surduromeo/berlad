@@ -62,7 +62,9 @@ var informatiiPoza = {
     },
    'emil': {
         titlu: 'Emil Gîrleanu',
-        descriere: '<p align="justify">Amplasată în centrul scuarului din fața Școlii nr.1 (fostul Liceu de fete „Iorgu Radu"), cu ocazia acordării acestei instituții de învățământ numele scriitorului care o perioadă de timp s-a aflat și a creat la Bârlad, bustul este opera cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment, acesta a fost instalat pe un soclu în două trepte ce susține un piedestal format din două trunchiuri inegale de piramidă cuplate în secțiunea cea mai mică. Între piedestal și bustul scriitorului a fost așezată, orizontal, o placă de marmoră care întregește și dă o notă de distincție întregului ansamblu statuar.(3) </p>'  
+        descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest contest amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani. </p>\ 
+	    <p align="justify">Opera îi aparține cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment alb, bustul impresionează prin echilibrul compoziției. Acesta este așezat pe un soclu în două trepte, care susține un piedestal cu o formă geometrică interesantă: două trunchiuri inegale de piramidă, unite în secțiunea lor cea mai mică.</p>\
+		<p align="justify">Un element care adaugă rafinament monumentului este placa de marmură poziționată orizontal între piedestal și bust. Această inserție nu are doar rol structural, ci întregește ansamblul statuar, oferindu-i o notă de distincție și eleganță.</p>'
     },
 	'emin': {
         titlu: 'Mihai Eminescu',
