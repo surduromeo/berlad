@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'belo': {
+        titlu: 'Stroe Belloescu',
+        descriere: '<p align="justify">În iunie 1936, la inițiativa lui Iancu Mihăilescu, președintele inimos al Ateneului Popular C.F.R., a fost ridicat un bust de bronz dedicat marelui filantrop Stroe Belloescu. Amplasarea monumentului nu a fost întâmplătoare: acesta a fost situat în Parcul Domneasca, chiar pe locul unde a funcționat, în primele sale începuturi, prestigiosul Liceu „Codreanu”.</p>\
+		<p align="justify">Importanța evenimentului a fost subliniată de prezența unor personalități de vază ale vremii. La ceremonia de inaugurare au participat P.S.S. Episcopul Nifon al Hușilor și dr. Constantin Angelescu, Ministrul Educației Naționale de la acea dată, demonstrând respectul profund pe care statul și biserica îl purtau operei de caritate a lui Belloescu.</p>\
+		<p align="justify">Din păcate, destinul monumentului s-a schimbat odată cu instaurarea regimului comunist. În cadrul unui proces de „remodelare” ideologică a spațiului public, Parcul Domneasca a fost reamenajat și redenumit în Parcul Eroilor Armatei Sovietice.</p>\
+		<p align="justify">În acest context al ștergerii valorilor vechi, bustul lui Stroe Belloescu a dispărut, lăsând un gol în peisajul cultural al orașului și în memoria vizuală a comunității. Gestul a simbolizat, pentru multă vreme, încercarea de a ignora contribuțiile filantropilor care au pus bazele instituțiilor de educație și cultură din perioada precomunistă.</p>'
+    },
 	'vipo': {
         titlu: 'Victor Ion Popa',
         descriere: '<p align="justify">Povestea teatrului bârlădean începe în anul 1955, când instituția și-a deschis porțile sub titulatura de „Teatru de Stat Bârlad”. Doar un an mai târziu, în 1956, prestigiul instituției este pecetluit prin atribuirea numelui lui Victor Ion Popa (1895-1946) — ilustru dramaturg, romancier și om de cultură polivalent, fiu al acestor meleaguri.</p>\
