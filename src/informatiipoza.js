@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'emil': {
+        titlu: 'Emil Gârleanu',
+        descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest contest amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani.</p>\
+		<p align="justify">Opera îi aparține cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment alb, bustul impresionează prin echilibrul compoziției. Acesta este așezat pe un soclu în două trepte, care susține un piedestal cu o formă geometrică interesantă: două trunchiuri inegale de piramidă, unite în secțiunea lor cea mai mică.</p>\
+		<p align="justify">Un element care adaugă rafinament monumentului este placa de marmură poziționată orizontal între piedestal și bust. Această inserție nu are doar rol structural, ci întregește ansamblul statuar, oferindu-i o notă de distincție și eleganță.</p>'
+		
+    },
 	'belo': {
         titlu: 'Stroe Belloescu',
         descriere: '<p align="justify">În iunie 1936, la inițiativa lui Iancu Mihăilescu, președintele inimos al Ateneului Popular C.F.R., a fost ridicat un bust de bronz dedicat marelui filantrop Stroe Belloescu. Amplasarea monumentului nu a fost întâmplătoare: acesta a fost situat în Parcul Domneasca, chiar pe locul unde a funcționat, în primele sale începuturi, prestigiosul Liceu „Codreanu”.</p>\
@@ -60,12 +67,7 @@ var informatiiPoza = {
         titlu: 'Vasile Pârvan',
         descriere: '<p align="justify">În anul 1989, cu ocazia aniversării a 75 de ani de existență a Muzeului „Vasile Pârvan" din Bârlad, s-a dezvelit în fața prestigioasei instituții de cultură, bustul „poetului arheologiei româneşti" - Vasile Pârvan. Turnat în bronz, bustul a fost montat pe un soclu de beton, fiind opera marelui sculptor de origine bârlădeană loan Dimitriu-Bârlad, după al cărui mulaj, bine conservat, s-a turnat la Intreprinderea de Rulmenți din localitate, bustul care a fost instalat pe soclu. În spatele bustului, care împreună cu soclul formează statuia propriu-zisă, a fost realizată o arcadă, ca element arhitectonic de echilibru între dimensiunile statui şi una din deschiderile clădirii în fața căreia este așezată, element care, in același timp, poate simboliza existența în timp a națiunii române. Pe latura din față a soclului s-a aplicat o placă pe care au fost înscrise numele istoricului: „Vasile Pârvan" și anii de viață: „1882-1927". Motivația dezvelirii, la Bârlad, a bustului marelui istoric constă în faptul că acesta a urmat și absolvit aici cursurile celebrului Liceu „Codreanu", importantă instituție de învățământ în care s-au format multe personalități ale culturii și științei românești.(3)</p>'  
     },
-   'emil': {
-        titlu: 'Emil Gîrleanu',
-        descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest contest amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani. </p>\ 
-	    <p align="justify">Opera îi aparține cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment alb, bustul impresionează prin echilibrul compoziției. Acesta este așezat pe un soclu în două trepte, care susține un piedestal cu o formă geometrică interesantă: două trunchiuri inegale de piramidă, unite în secțiunea lor cea mai mică.</p>\
-		<p align="justify">Un element care adaugă rafinament monumentului este placa de marmură poziționată orizontal între piedestal și bust. Această inserție nu are doar rol structural, ci întregește ansamblul statuar, oferindu-i o notă de distincție și eleganță.</p>'
-    },
+   
 	'emin': {
         titlu: 'Mihai Eminescu',
         descriere: '<p align="justify">Dezvelită în ziua de 22 mai 1994, statuia a fost amplasată în parcul Teatrului „Victor Ion Popa", fiind opera marelui sculptor Ion Irimescu, creată în anul 1922. Turnat în bronz, bustul marelui poet național a fost așezat pe un piedestal paralelipipedic, în plan dreptunghiular, care împreună cu soclul propriu-zis au fost placate cu marmură albă. Pe latura din față a piedestalului a fost aplicată o placă din bronz pe care au fost înscrise, în partea centrală, numele poetului și anii de viață: „Mihai Eminescu, 1859-1889", în colțul din stânga jos, numele sculptorului: „Ion Irimescu", iar în colțul din dreapta, jos, numele donatorului: „Dr. Const. Teodorescu".(3)</p>'  
