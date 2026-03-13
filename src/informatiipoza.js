@@ -47,7 +47,10 @@ var informatiiPoza = {
 
 	'rosc': {
         titlu: 'Gheorghe Roșca Codreanu',
-        descriere: '<p align="justify">În luna noiembrie 1940, în partea de nord-vest a clădirii liceului s-a dezvelit un bust al ctitorului, lucrat în bronz de sculptorul Mihai Onofrei (dezvelit în fața ministrului Educației Naționale de atunci, Traian Braileanu). Bustul a fost trimis la topire, în 1951, când proletcultismul pusese stăpânire pe cultura românească. În 1971, cu prilejul împlinirii a 125 de ani de existență a școlii s-a realizat un nou bust, în ciment alb, lucrat de profesorul-sculptor Gheorghe Alupoaie. Bustul a fost instalat în fața liceului pe un postament din beton, placat cu travertin și pe care a fost montată o placă de marmură pe care a fost înscrise numele ctitorului și anii de viață. Cu ocazia sărbătoririi a 150 de ani de existenta a liceului, în anul 1996, când a fost ridicat la rangul de Colegiu National, același sculptor, Gheorghe Alupoaei, a executat un alt bust, turnat în bronz de către Fundația culturala „Dr.C.Teodorescu”. Bustul a fost montat pe același postament de beton, însă consolidat și placat cu marmură.</p>'  
+        descriere: '<p align="justify">În luna noiembrie 1940, în partea de nord-vest a clădirii liceului s-a dezvelit un bust al ctitorului, lucrat în bronz de sculptorul Mihai Onofrei (dezvelit în fața ministrului Educației Naționale de atunci, Traian Braileanu). Bustul a fost trimis la topire, în 1951, când proletcultismul pusese stăpânire pe cultura românească. </p>\
+		<p align="justify">În 1971, cu prilejul împlinirii a 125 de ani de existență a școlii s-a realizat un nou bust, în ciment alb, lucrat de profesorul-sculptor Gheorghe Alupoaie. Bustul a fost instalat în fața liceului pe un postament din beton, placat cu travertin, pe care a fost montată o placă de marmură  inscripționată cu numele ctitorului și anii de viață. </p>\
+		<p align="justify">Cu ocazia sărbătoririi a 150 de ani de existenta a liceului, în anul 1996, când a fost ridicat la rangul de Colegiu National, același sculptor, Gheorghe Alupoaei, a executat un alt bust, turnat în bronz de către Fundația culturala „Dr.C.Teodorescu”. Bustul a fost montat pe același postament de beton, însă consolidat și placat cu marmură.</p>'
+		
     },
 	'negri': {
         titlu: 'Costachi Negri',
