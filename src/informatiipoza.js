@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'miem': {
+        titlu: 'Mihai Eminescu ',
+        descriere: '<p align="justify">La împlinirea a 161 de ani de la nașterea „poetului nepereche”, orașul Bârlad a trăit un moment istoric de o profundă încărcătură culturală. Pe 15 ianuarie 2011, a fost inaugurat oficial Centrul „Mihai Eminescu”, o instituție unică menită să păstreze vie memoria geniului literaturii române.</p>\
+		<p align="justify">Punctul central al evenimentului a fost dezvelirea bustului lui Mihai Eminescu, o operă de o valoare artistică excepțională realizată în bronz de maestrul Marcel Guguianu. Lucrarea, așezată pe un piedestal solid din zidărie tencuită, poartă o placă de bronz cu numele poetului și anii săi de viață, devenind astfel un reper vizual și spiritual în fața noului sediu.</p>\
+		<p align="justify">Festivitatea a debutat cu o slujbă religioasă oficiată de un sobor de preoți, urmată de discursuri ale oficialităților locale și ale personalităților culturale prezente. Proiectul a fost posibil datorită generozității dr. Constantin Teodorescu, colecționar împătimit și inițiator al acestui demers, care a donat instituției un patrimoniu impresionant dedicat vieții și operei eminesciene.</p>'
+		
+    },
 	'enes': {
         titlu: 'George Enescu',
         descriere: '<p align="justify">Amplasată pe locul fostului monument G.D. Palade, statuia lui George Enescu din centrul Grădinii Publice rămâne un reper cultural important al Bârladului. Ridicat prin eforturile animatorilor locali, monumentul surprinde eleganța discretă a artistului și onorează relația sa specială cu publicul bârlădean.</p>\
