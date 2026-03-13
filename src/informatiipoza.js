@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'enes': {
+        titlu: 'George Enescu',
+        descriere: '<p align="justify">Amplasată pe locul fostului monument G.D. Palade, statuia lui George Enescu din centrul Grădinii Publice rămâne un reper cultural important al Bârladului. Ridicat prin eforturile animatorilor locali, monumentul surprinde eleganța discretă a artistului și onorează relația sa specială cu publicul bârlădean.</p>\
+		<p align="justify">Realizată în 1958 în atelierele Fondului Plastic din București, statuia este opera sculptorului Ion Vlad (elev al maestrului Corneliu Medrea). Turnată în bronz, lucrarea îl surprinde pe Enescu într-o ipostază plină de grație: în picioare, cu vioara sub braț, înclinându-se în fața aplauzelor. Amplasată pe un soclu masiv din piatră, cioplit de meșteri ieșeni și inscripționat simplu cu numele și anii de viață ai artistului (1881–1955), statuia impresionează prin monumentalitate și fidelitatea expresiei.</p>\
+		<p align="justify">Ziua de 21 iulie 1959 a rămas întipărită în memoria orașului ca un moment de mare fast cultural. Inaugurarea monumentului a adunat un număr impresionant de localnici, atmosfera fiind întreținută de acordurile Filarmonicii din Iași. Emoția evenimentului a fost completată de recitalurile susținute de violonistul Mihai Constantinescu și de celebra mezzosoprană Viorica Cortez.</p>\
+		<p align="justify">Prezența statuii în oraș nu este întâmplătoare, ci reprezintă o formă de recunoștință pentru atașamentul maestrului față de această comunitate. Bârlădenii nu au uitat actele de caritate ale lui Enescu din timpul Primului Război Mondial, când acesta a concertat neobosit pentru răniții din spitale. Ulterior, legătura a fost consolidată prin concertele memorabile susținute în anii 1923, 1927, 1929 și 1936, momente care au transformat Bârladul într-un reper pe harta sa afectivă.</p>'
+    },
 	'emil': {
         titlu: 'Emil Gârleanu',
         descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest contest amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani.</p>\
