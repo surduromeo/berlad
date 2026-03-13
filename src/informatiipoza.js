@@ -1,4 +1,11 @@
 var informatiiPoza = {
+	'cuza': {
+        titlu: 'Alexandru Ioan Cuza ',
+        descriere: '<p align="justify">Situată pe strada Republicii, statuia lui Alexandru Ioan Cuza este unul dintre monumentele remarcabile din centrul municipiului Bârlad. Opera sculptorului bucureștean Paul Vasilescu este turnată în bronz, are o înălțime de 2,40 metri și cântărește 1,6 tone..</p>\
+		<p align="justify">Monumentul se remarcă printr-un postament masiv de piatră, structurat în trepte succesive care se îngustează spre vârf. Baza acestuia poartă inscripția dedicată domnitorului: ALEXANDRU IOAN CUZA / DOMNITOR AL PRINCIPATELOR UNITE/ 1859-1866,, în timp ce secțiunea mediană este decorată cu ancadramente în torsadă și stema Principatelor Unite. Această configurație asigură o tranziție estetică fluidă către statuia de bronz. Întregul ansamblu este așezat pe un soclu în trei trepte, delimitat simetric de patru stâlpișori decorativi.</p>\
+		<p align="justify">Domnitorul este înfățișat în picioare, având o prezență autoritară. Acesta poartă o uniformă militară de ofițer detaliată și pe umeri o mantie amplă care îi conferă o alură maiestuoasă. Mâna dreaptă a domnitorului este sprijinită pe mânerul sabiei de la brâu, detaliu ce sugerează autoritatea și forța necesară pentru a proteja noul stat unit. </p>\
+		<p align="justify">Dezvelirea monumentului a avut loc pe 22 martie 2008 în cadrul "Zilelor Al. Ioan Cuza", eveniment organizat de Primăria Bârlad. Atmosfera a fost una de mare sărbătoare națională, marcând recunoașterea oficială a orașului ca loc de naștere al domnitorului. Oficialitățile locale au rostit discursuri care au subliniat legătura de suflet dintre Bârlad și Cuza, în timp ce mulțimea de cetățeni a creat un cadru vibrant, transformând centrul orașului într-o scenă vie a recunoștinței istorice.</p>'
+    },
 	'miem': {
         titlu: 'Mihai Eminescu ',
         descriere: '<p align="justify">La împlinirea a 161 de ani de la nașterea „poetului nepereche”, orașul Bârlad a trăit un moment istoric de o profundă încărcătură culturală. Pe 15 ianuarie 2011, a fost inaugurat oficial Centrul „Mihai Eminescu”, o instituție unică menită să păstreze vie memoria geniului literaturii române.</p>\
