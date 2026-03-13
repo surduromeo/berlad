@@ -83,7 +83,10 @@ var informatiiPoza = {
    
 	'emin': {
         titlu: 'Mihai Eminescu',
-        descriere: '<p align="justify">Dezvelită în ziua de 22 mai 1994, statuia a fost amplasată în parcul Teatrului „Victor Ion Popa", fiind opera marelui sculptor Ion Irimescu, creată în anul 1922. Turnat în bronz, bustul marelui poet național a fost așezat pe un piedestal paralelipipedic, în plan dreptunghiular, care împreună cu soclul propriu-zis au fost placate cu marmură albă. Pe latura din față a piedestalului a fost aplicată o placă din bronz pe care au fost înscrise, în partea centrală, numele poetului și anii de viață: „Mihai Eminescu, 1859-1889", în colțul din stânga jos, numele sculptorului: „Ion Irimescu", iar în colțul din dreapta, jos, numele donatorului: „Dr. Const. Teodorescu".(3)</p>'  
+        descriere: '<p align="justify">Patrimoniul cultural al orașului Bârlad este îmbogățit de prezența unor monumente care nu doar onorează marile figuri ale istoriei noastre, ci reprezintă ele însele piese de o valoare artistică excepțională. Un astfel de exemplu este bustul lui Mihai Eminescu, amplasat în parcul Teatrului „Victor Ion Popa”, o operă ce îmbină semnătura unui sculptor de geniu cu generozitatea unui mecena local. </p>\
+		<p align="justify">Deși monumentul a fost dezvelit oficial în ziua de 22 mai 1994, lucrarea în sine are o vechime mult mai mare. Bustul a fost creat în anul 1922 de către maestrul Ion Irimescu, unul dintre cei mai importanți sculptori români și membru al Academiei Române. </p>\
+		<p align="justify">Bustul de bronz a fost așezat pe un piedestal de formă paralelipipedică, placat cu marmură albă. Pe fața piedestalului se află o placă de bronz ce cuprinde detaliile monumentului: central apar numele poetului și anii de viață, „Mihai Eminescu, 1850-1889”, în partea stângă jos se regăsește semnătura sculptorului Ion Irimescu, iar în dreapta jos este menționat donatorul, Dr. Const. Teodorescu, cel care a susținut financiar amplasarea operei.</p>'
+		
     },
 	
 	'gugu': {
