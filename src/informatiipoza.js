@@ -45,7 +45,10 @@ var informatiiPoza = {
     },
 	'tuto': {
         titlu: 'George Tutoveanu',
-        descriere: '<p align="justify">În prezenta oficialităților bârlădene, a profesorilor scolii, a numeroși părinți, elevi și cadre didactice de la școlile din localitate, în ziua de 23 aprilie 2014, a fost dezvelit bustul poetului George Tutoveanu. Școala poartă numele poetului bârlădean din 1995, la inițiativa directorului de atunci, Lucica Munteanu. Dezvelirea bustului a fost precedată de o slujbă religioasă susținută de preotul Parohiei „Sf. Mina”, de care aparține școala. Bustul a fost instalat în fața școlii și a fost realizat de profesorul Dorinel Filiche, profesor la Liceul Pedagogic „Al. Vlahutã” din Bârlad, secțiunea Arte Plastice. Confecționat din ciment alb, bustul a fost așezat pe un piedestal paralelipipedic cu soclu, construit din zidărie și placat cu travertin. Pe latura din fața a postamentului s-a fixat o placă din metal pe care au fost înscrise: Poet/GEORGE TUTOVEANU/(1872-1957).</p>'  
+        descriere: '<p align="justify">Pe data de 23 aprilie 2014, a avut loc ceremonia oficială de dezvelire a bustului poetului George Tutoveanu, chiar în fața instituției de învățământ care îi poartă numele. Școala a preluat numele distinsului poet bârlădean încă din anul 1995, la inițiativa directorului de la acea vreme, Lucica Munteanu. </p>\
+		<p align="justify">Evenimentul a debutat cu o notă solemnă, fiind precedat de o slujbă religioasă oficiată de preotul Parohiei „Sf. Mina”, unitatea de cult de care aparține școala. La festivitate au participat oficialități locale, numeroși părinți, elevi, precum și cadre didactice de la diverse instituții de învățământ din oraș. </p>\
+		<p align="justify">Opera de artă este semnată de profesorul Dorinel Filiche, de la secțiunea Arte Plastice a Liceului Pedagogic „Al. Vlahuță” din Bârlad. Bustul, realizat cu măiestrie din ciment alb, a fost așezat pe un piedestal paralelipipedic robust, construit din zidărie și placat cu travertin. Pe latura din fața a postamentului s-a fixat o placă din metal pe care au fost înscrise: Poet/GEORGE TUTOVEANU/(1872-1957).</p>'
+		
     },
 	'pamf': {
         titlu: 'Tudor Pamfile',
