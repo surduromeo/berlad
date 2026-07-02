@@ -22,7 +22,7 @@ var informatiiPoza = {
     },
 	'emil': {
         titlu: 'Emil Gârleanu',
-        descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest contest amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani.</p>\
+        descriere: '<p align="justify">Bârladul, oraș cu o bogată moștenire culturală, găzduiește în fața Școlii „Iorgu Radu” un monument dedicat scriitorului Emil Gârleanu. Amplasarea bustului nu este întâmplătoare, ci marchează momentul în care instituția de învățământ a preluat numele celebrului autor. În acest context amintim că scriitorul a locuit și creat la Bârlad timp de 4 ani.</p>\
 		<p align="justify">Opera îi aparține cunoscutului sculptor Gheorghe Alupoaie. Realizat din ciment alb, bustul impresionează prin echilibrul compoziției. Acesta este așezat pe un soclu în două trepte, care susține un piedestal cu o formă geometrică interesantă: două trunchiuri inegale de piramidă, unite în secțiunea lor cea mai mică.</p>\
 		<p align="justify">Un element care adaugă rafinament monumentului este placa de marmură poziționată orizontal între piedestal și bust. Această inserție nu are doar rol structural, ci întregește ansamblul statuar, oferindu-i o notă de distincție și eleganță.</p>'
 		
