@@ -43,14 +43,14 @@ var OpenStreetMap = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.
 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 controlLayers.addBaseLayer(OpenStreetMap, 'Barlad.');
-var bd1960 = new L.tileLayer.wms(" http://mapwarper.net/maps/tile/37261/{z}/{x}/{y}.png", {
+var bd1960 = new L.tileLayer.wms(" https://maps.historyforge.net/maps/tile/2567/{z}/{x}/{y}.png", {
   layers: 'Barlad Online',
   version: '1.1.0',
   transparent: true,
   attribution:'Map 1960-1967</a>'
 })
 controlLayers.addBaseLayer(bd1960, 'Barlad 1960');
-var bd1900 = new L.tileLayer.wms("http://mapwarper.net/maps/tile/37305/{z}/{x}/{y}.png", {
+var bd1900 = new L.tileLayer.wms("https://maps.historyforge.net/maps/tile/2566/{z}/{x}/{y}.png", {
   layers: 'Barlad Online',
   version: '1.1.0',
   transparent: true,
