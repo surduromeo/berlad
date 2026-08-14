@@ -9,9 +9,8 @@ var informatiiPoza = {
 	'mer': {
         titlu: 'Monumentul eroilor ',
         descriere: '<p align="justify">Monumentul-osuar al eroilor români din municipiul Bârlad reprezintă un reper istoric și arhitectural de o deosebită solemnitate, ridicat pentru a onora memoria celor căzuți în Primul Război Mondial. Ansamblul este amplasat în parcela eroilor români din cadrul cimitirului municipal din Bârlad, situat pe strada Cerbului. Parcela și osuarul au fost amenajate în anul 1946. Monumentul adăpostește osemintele centralizate a 535 de eroi români care și-au dat viața în campaniile Marelui Război.</p>\
-		<p align="justify">Structura centrală este dominată de un obelisc masiv, cu linii geometrice simple și zvelte, pe a cărui fațadă este aplicată o cruce creștină de mari dimensiuni, simbol al sacrificiului suprem. La baza obeliscului se află o placă dreptunghiulară pe care este inscripționat textul: „GLORIE ETERNĂ EROILOR ROMÂNI CĂZUȚI ÎN LUPTA PENTRU LIBERTATEA ȘI INDEPENDENȚA PATRIEI NOASTRE 1916-1918”. Monumentul este încadrat de un zid masiv, tencuit în alb, care delimitează zona de reculegere. La baza monumentului central se află structura osuarului propriu-zis. În fața plăcii comemorative sunt construite trepte din piatră dispuse în semicerc, folosite de obicei pentru depunerea de coroane sau jerbe de flori.</p>\
-		
-		
+		<p align="justify">Structura centrală este dominată de un obelisc masiv, cu linii geometrice simple și zvelte, pe a cărui fațadă este aplicată o cruce creștină de mari dimensiuni, simbol al sacrificiului suprem. La baza obeliscului se află o placă dreptunghiulară pe care este inscripționat textul: „GLORIE ETERNĂ EROILOR ROMÂNI CĂZUȚI ÎN LUPTA PENTRU LIBERTATEA ȘI INDEPENDENȚA PATRIEI NOASTRE 1916-1918”. Monumentul este încadrat de un zid masiv, tencuit în alb, care delimitează zona de reculegere. La baza monumentului central se află structura osuarului propriu-zis. În fața plăcii comemorative sunt construite trepte din piatră dispuse în semicerc, folosite de obicei pentru depunerea de coroane sau jerbe de flori.</p>'
+			
     },
 	'miem': {
         titlu: 'Mihai Eminescu ',
